@@ -30,7 +30,7 @@ function App() {
       <div className="App">
       <header className="header">
           <h2>
-            <Link to="/" className="blogster-link">𝓑𝓵𝓸𝓰𝓼𝓲𝓽𝓮</Link>
+            <Link to="/" className="blogster-link">D𝒶𝒾𝓁𝓎-𝐵𝓁ℴℊ𝓈</Link>
           </h2>
         </header>
         <Routes>
